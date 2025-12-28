@@ -28,7 +28,7 @@ Used to analyse:
 
 | Repository | Domain | Description | Status |
 |----------|------|------------|--------|
-| macro-stress-testing-framework | Risk / Macro | Scenario-based stress testing of portfolios and balance sheets | Completed |
+| macro-financial-stress-testing | Risk / Macro | Scenario-based stress testing of portfolios and balance sheets | Completed |
 | lbo-model-private-equity | Private Equity | Leveraged buyout modelling with exit sensitivity | In progress |
 | mna-valuation-engine | Investment Banking | DCF, comps, precedents, and accretion/dilution | Planned |
 | pe-operating-model | Private Equity | Operating leverage and value creation modelling | Planned |
