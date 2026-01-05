@@ -29,8 +29,8 @@ Used to analyse:
 | Repository | Domain | Description | Status |
 |----------|------|------------|--------|
 | macro-financial-stress-testing | Risk / Macro | Scenario-based macro-financial stress testing of bank balance sheets and capital adequacy under adverse macroeconomic conditions | Completed |
-| mna-valuation-engine | Investment Banking | M&A valuation engine including DCF, comparable companies, precedent transactions, and accretion / dilution analysis | Planned |
-| lbo-model-private-equity | Private Equity / LevFin | Leveraged buyout model covering sources & uses, debt tranches, cash sweep mechanics, and exit IRR / MOIC sensitivity | In progress |
+| mna-valuation-engine | Investment Banking | M&A valuation engine including DCF, comparable companies, precedent transactions, and accretion / dilution analysis | In progress |
+| lbo-model-private-equity | Private Equity / LevFin | Leveraged buyout model covering sources & uses, debt tranches, cash sweep mechanics, and exit IRR / MOIC sensitivity | Planned |
 | pe-operating-model | Private Equity | Operating model focused on revenue drivers, cost structure optimisation, working capital dynamics, and value creation levers | Planned |
 | pe-portfolio-monitor | Private Equity | Portfolio company monitoring framework with KPI tracking, covenant surveillance, and cash-flow stress scenarios | Planned |
 | equity-factor-strategies | Asset Management / Hedge Funds | Long/short equity factor strategies with transaction costs, drawdown analysis, and regime sensitivity | Planned |
