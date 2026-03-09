@@ -23,13 +23,23 @@ Used to analyse:
   
 → Repository: `macro-financial-stress-testing`
 
+### M&A Valuation Engine
+Comprehensive corporate valuation framework for analysing acquisition targets and evaluating transaction economics across multiple valuation methodologies.
+
+Used to analyse:
+- Standalone enterprise value using trading comparables and precedent transactions
+- Intrinsic firm value via multi-scenario discounted cash flow modelling
+- Deal economics including control premiums, consideration structure, and accretion/dilution outcomes
+- Sensitivity of valuation to key assumptions such as WACC, terminal value, and strategic synergies
+
+→ Repository: `mna-valuation-engine`
 
 ## Project Index
 
 | Repository | Domain | Description | Status |
 |----------|------|------------|--------|
 | macro-financial-stress-testing | Risk / Macro | Scenario-based macro-financial stress testing of bank balance sheets and capital adequacy under adverse macroeconomic conditions | Completed |
-| mna-valuation-engine | Investment Banking | M&A valuation engine including DCF, comparable companies, precedent transactions, and accretion / dilution analysis | In progress |
+| mna-valuation-engine | Investment Banking | M&A valuation engine including DCF, comparable companies, precedent transactions | Completed |
 | lbo-model-private-equity | Private Equity / LevFin | Leveraged buyout model covering sources & uses, debt tranches, cash sweep mechanics, and exit IRR / MOIC sensitivity | Planned |
 | pe-operating-model | Private Equity | Operating model focused on revenue drivers, cost structure optimisation, working capital dynamics, and value creation levers | Planned |
 | pe-portfolio-monitor | Private Equity | Portfolio company monitoring framework with KPI tracking, covenant surveillance, and cash-flow stress scenarios | Planned |
